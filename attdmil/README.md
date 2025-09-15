@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./media/histo.gif" alt="Logo" width="800" height="600">
+    <img src="./media/histo.gif" alt="Logo" width="400" height="300">
   </a>
 
   <h3 align="center">Attention-based Deep Multiple Instance Learning <br> --------------------------- <br> Histopathology-Bags <br> --------------------------- <br> MNIST-Bags </h3>
