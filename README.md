@@ -186,9 +186,9 @@ To get a local copy and replicate our experiments follow these simple steps.
    f) Relevance scores + Attention weights (normalized with LRP+Att. technique)
    ```
 
-![Example Outputs](./media/shapley.png)
-![Example Outputs](./media/good1.png)
-![Example Outputs](./media/good2.png)
+![Example Outputs](./attdmil/media/shapley.png)
+![Example Outputs](./attdmil/media/good1.png)
+![Example Outputs](./attdmil/media/good2.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -268,7 +268,7 @@ To get a local copy and replicate our experiments follow these simple steps.
    ./logs/local_gpu/new_mu10/embedding_poolattention_mu10_var2_num50/misc
    ```
 
-![Example Outputs](./media/att_bag_Positive_1.png)
+![Example Outputs](./attdmil/media/att_bag_Positive_1.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
