@@ -1,0 +1,15 @@
+pml.def
+pml.sif
+.vscode
+__pycache__
+MNIST
+*.wandb
+*.log
+*.json
+*.pt
+logs/**/*.png
+*.yaml
+wandb
+*.h5
+*.txt
+.DS_Store
